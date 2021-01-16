@@ -1,2 +1,2 @@
-# Starter Website
-Starter website for each mentorship family to initially clone. You can find the walkthroughs in the walkthroughs folder :)
+# Frozen Website
+A website for the best family in mentorship :)
