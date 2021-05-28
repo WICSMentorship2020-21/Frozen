@@ -4,6 +4,27 @@
     font-size: 22px;
 }
 
+#title{
+    color: aliceblue;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+#olaf{
+    width: 55%;
+    float: right;
+    margin-bottom: 10px;
+}
+
+#familypic{
+    width: 55%;
+    float: right;
+    margin-bottom: 10px;
+}
+
 .center {
     margin: 0;
     position: absolute;
